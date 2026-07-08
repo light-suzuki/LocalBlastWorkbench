@@ -1,5 +1,10 @@
 # Local BLAST Workbench
 
+[![CI](https://github.com/light-suzuki/LocalBlastWorkbench/actions/workflows/ci.yml/badge.svg)](https://github.com/light-suzuki/LocalBlastWorkbench/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/light-suzuki/=semver)](https://github.com/light-suzuki/LocalBlastWorkbench/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
 BLAST、BLAST-OR、ローカルBLAST DB管理に絞ったWindows GUI。 | A focused Windows GUI for BLAST, alignment inspection, and local BLAST database management.
 
 This is a source-level focused distribution of
