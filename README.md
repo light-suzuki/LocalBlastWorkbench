@@ -1,7 +1,7 @@
 # Local BLAST Workbench
 
 [![CI](https://github.com/light-suzuki/LocalBlastWorkbench/actions/workflows/ci.yml/badge.svg)](https://github.com/light-suzuki/LocalBlastWorkbench/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/light-suzuki/=semver)](https://github.com/light-suzuki/LocalBlastWorkbench/releases)
+[![Release](https://img.shields.io/github/v/release/light-suzuki/LocalBlastWorkbench?sort=semver)](https://github.com/light-suzuki/LocalBlastWorkbench/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
